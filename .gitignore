@@ -108,3 +108,5 @@ dist
 
 # Certificates
 https
+
+.DS_Store
